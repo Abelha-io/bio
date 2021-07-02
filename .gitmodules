@@ -1,0 +1,8 @@
+[submodule "beekeep"]
+	path = beekeep
+	url = https://github.com/Abelha-io/beekeep.git
+	branch = master
+[submodule "flavinhodemel"]
+	path = flavinhodemel
+	url = https://github.com/Abelha-io/flavinhodemel.git
+	branch = master
