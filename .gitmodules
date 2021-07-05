@@ -6,3 +6,6 @@
 	path = flavinhodemel
 	url = https://github.com/Abelha-io/flavinhodemel.git
 	branch = master
+[submodule "naativaprojetos"]
+	path = naativaprojetos
+	url = https://github.com/Abelha-io/naativaprojetos.git
