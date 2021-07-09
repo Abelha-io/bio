@@ -1,6 +1,19 @@
 {
-  "schemaVersion": 1, 
-  "label": "powered by",
-  "message": "Abelha.io",
-  "color": "yellow"
+	"__comment1__": "https://img.shields.io/endpoint?url=<URL>&style<STYLE>&prefix=<PREFIX>&suffix=<SUFFIX>",
+	"schemaVersion": 1,
+	"label": "powered by",
+	"message": "Abelha.io",
+	"color": "yellow",
+	"style": "flat",
+	"__style1__": "plastic",
+	"__style2__": "flat-square",
+	"__style3__": "for-the-badge",
+	"__style4__": "social",
+	"logo": "appveyor",
+	"logoColor": "violet",
+	"labelColor": "violet",
+	"cacheSeconds": "3600",
+	"?logoWidth": "40",
+	"link": "https://loja.abelha.io/"
 }
+
