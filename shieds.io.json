@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1, /*REQUIRED*/
+  "label": "powered by",
+  "message": "Abelha.io",
+  "color": "yellow"
+}
