@@ -1,5 +1,4 @@
 {
-
 	"schemaVersion": 1,
 	"label": "powered by",
 	"message": "Abelha.io",
@@ -7,7 +6,7 @@
 	"style": "flat",
 	"logo": "appveyor",
 	"labelColor": "violet",
-	"cacheSeconds": "3600",
-
+	"cacheSeconds": "60",
+	"query": "Test"
 }
 
