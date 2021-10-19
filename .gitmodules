@@ -9,3 +9,6 @@
 [submodule "naativaprojetos"]
 	path = naativaprojetos
 	url = https://github.com/Abelha-io/naativaprojetos.git
+[submodule "aue"]
+	path = aue
+	url = https://github.com/Abelha-io/aue.git
